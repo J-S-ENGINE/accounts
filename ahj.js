@@ -1,4 +1,4 @@
- e-number = prompt 
+ user = email/ code/name
  User1 = "812023610/1437"
  * User2 =
  * User3 =
