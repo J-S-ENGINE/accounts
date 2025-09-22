@@ -1005,4 +1005,935 @@ const promptResult = prompt("The text from your input is below:", inputValue);
 if(prompt = user1)
 window.location.href = "https://www.example.com";
 
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
+if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+    if (promptResult !== null) {
+        alert("You entered: " + promptResult);
+    } else {
+        alert("You cancelled the prompt.");
+    }
+}
+
 
