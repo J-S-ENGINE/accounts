@@ -1,4 +1,6 @@
- e-number = prompt 
+     const inputValue = document.getElementById('myInput').value;
+    const promptResult = prompt("The text from your input is below:", inputValue);
+
  User1 = "yuvrajjain347@gmail.com/1437"
  * User2 =
  * User3 =
