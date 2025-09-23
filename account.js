@@ -1,4 +1,4 @@
-prompt(i14qq:")
+prompt("i14qq:")
 prompt("Please enter something:")
 prompt("Please enter something:")
 prompt("Please enter something:")
