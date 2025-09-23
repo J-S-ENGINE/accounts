@@ -1,3 +1,4 @@
+prompt(i14qq:")
 prompt("Please enter something:")
 prompt("Please enter something:")
 prompt("Please enter something:")
@@ -997,8 +998,7 @@ prompt("Please enter something:")
 prompt("Please enter something:")
 prompt("Please enter something:")
 prompt("Please enter something:")
-prompt("Please enter something:")
- User1 = "812023610/1437"
+ User1 = "i14q"
  * User2 =
  * User3 =
  * User4 =
@@ -2000,6 +2000,10 @@ prompt("Please enter something:")
  * User1000 =
 
 if(prompt = user1)
+window.location.href = "https://sites.google.com/view/js-engine/home/yuvraj-jain/jseb?authuser=0";
+
+if(prompt = user1)
 window.location.href = "https://www.example.com";
+
 
 
